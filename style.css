@@ -1,0 +1,29 @@
+
+
+
+body {
+    background-color:FloralWhite;
+    margin: 80px 80px 80px 80px;
+}
+
+
+h1 {
+   font-family: Helvetica,times,sans-serif;
+   text-align:right;
+}
+
+p {
+   font-family:Georgia, serif;
+
+}
+
+a {
+   font-family:Helvetica,times, sans-serif;
+   
+}
+
+nav{
+
+text-align:right;
+font-weight: bold
+}
